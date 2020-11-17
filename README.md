@@ -1,9 +1,13 @@
 # Data-Analysis-Projects
 
 1) Youtube Text Data Analysis
+
   A) Perfored Sentiment Analysis on youtube Comments
+  
   B) Created Wordcloud representation of Sentiments
+  
   C) Analyzed Trending Tags and Views of YouTube
+  
   D)  Performed Comment Emojis Analysis
   
   
