@@ -3,9 +3,9 @@
 1) Youtube Text Data Analysis
 
 
-## Download datasets from below link
+## Download datasets
 
-[Click here for Dataset](https://drive.google.com/drive/folders/1SUg033mtVPh7cuGs-PFWl_Rfau1wMMOi?usp=sharing)
+[Click here for Datasets](https://drive.google.com/drive/folders/1SUg033mtVPh7cuGs-PFWl_Rfau1wMMOi?usp=sharing)
 
 ## For any queries/doubts:
 
