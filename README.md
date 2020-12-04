@@ -1,16 +1,16 @@
 # Data-Analysis-Projects
 
-<h5>1) Youtube Text Data Analysis -> </h5>
+<h4>1) Youtube Text Data Analysis -> </h4>
+    
+    A) Perfored Sentiment Analysis on youtube Comments
+  
+    B) Created Wordcloud representation of Sentiments
+  
+    C) Analyzed Trending Tags and Views of YouTube
+  
+    D)  Performed Comment Emojis Analysis
 
-  A) Perfored Sentiment Analysis on youtube Comments
-  
-  B) Created Wordcloud representation of Sentiments
-  
-  C) Analyzed Trending Tags and Views of YouTube
-  
-  D)  Performed Comment Emojis Analysis
-
-<h5>2) IPL Data Analysis -> </h5>
+<h4>2) IPL Data Analysis -> </h4>
     
     A) In Depth Analysis of DA Warner
     
